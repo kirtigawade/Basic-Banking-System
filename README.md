@@ -3,4 +3,4 @@ Basic Banking System:
 Technologies Used:
 Front-End : HTML,CSS,JavaScript & Bootstrap
 Back-End : PHP
-Database : MySql (XAMPP)
+Database : MySQL (XAMPP)
